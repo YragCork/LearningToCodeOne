@@ -1,0 +1,7 @@
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\bin\Debug\MyFirstIntroductionToCoding.exe.config
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\bin\Debug\MyFirstIntroductionToCoding.exe
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\bin\Debug\MyFirstIntroductionToCoding.pdb
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\obj\Debug\MyFirstIntroductionToCoding.csprojAssemblyReference.cache
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\obj\Debug\MyFirstIntroductionToCoding.csproj.CoreCompileInputs.cache
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\obj\Debug\MyFirstIntroductionToCoding.exe
+C:\Users\gc\Documents\Training\MyFirstIntroductionToCoding\MyFirstIntroductionToCoding\obj\Debug\MyFirstIntroductionToCoding.pdb
